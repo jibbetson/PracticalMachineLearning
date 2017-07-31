@@ -1,0 +1,23 @@
+---
+title: "Practical Machine Learning Course Project"
+author: "James Ibbetson"
+date: "July 30, 2017"
+output: html_document
+---
+
+This is a sample HTML document, including some of the default Rmd content to illustrate display of the page on a 'gh-pages' website on github.io until I post actual content related to the Coursera JHU Practical Machine Learning course project in July 2017. Note that all content is public.
+
+
+```{r cars}
+summary(cars)
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
